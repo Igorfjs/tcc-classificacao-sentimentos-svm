@@ -1,0 +1,22 @@
+pandas
+numpy
+scikit-learn
+nltk
+emoji
+contractions
+seaborn
+matplotlib
+joblib
+regex
+
+# Para redes neurais
+torch
+torchvision
+torchaudio
+
+# Apenas se usar modelos transformadores (BERT/BERTweet)
+transformers
+datasets
+
+# Utilitários extras
+tqdm
